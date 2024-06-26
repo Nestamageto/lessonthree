@@ -1,0 +1,5 @@
+version control system that is designed to handle large projects simultaneously
+github web based platform that uses version control open sourse projects.
+file types 
+.git
+git init - initialize
